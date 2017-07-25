@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidBoilerPlate</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_error_title">Sorry</string>
+    <string name="autorization">Авторизация</string>
+    <string name="empty_ribots">There aren\'t any ribots</string>
+    <string name="error_loading_ribots">There was a problem loading the ribots</string>
+    <string name="incorect_email">Некоректный email</string>
+    <string name="passwor_error">Пароль - минимум 6 символов, должен обязательно содержать минимум 1 строчную букву, 1 заглавную, и 1 цифру.</string>
+    <string name="pass">Пароль</string>
+    <string name="email">Электронная почта</string>
+    <string name="exit">Войти</string>
+    <string name="create">Создать</string>
+
+</resources>

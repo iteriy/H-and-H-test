@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="Custom" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/dark_sky_blue</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:statusBarColor">@color/white_two</item>
+        <item name="android:actionMenuTextColor">@color/dark_sky_blue</item>
+    </style>
+
+</resources>
